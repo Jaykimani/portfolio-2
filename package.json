@@ -4,7 +4,9 @@
   "description": "Courtesy of Bruno Simon of https://threejs-journey.xyz/",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "three": "^0.135.0"
   },
   "devDependencies": {},
   "scripts": {
